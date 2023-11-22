@@ -29,3 +29,14 @@ const doubleChar = (str) =>
     .join("");
 
 ```
+
+### Courses:
+
+- The Odin project (completed)
+- Learn Javascript (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+### Languages:
+
+- English - Intermediate
+- Russian - Native
