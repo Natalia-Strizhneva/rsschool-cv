@@ -16,3 +16,16 @@ I'm studying to be a Frontend developer. I want to get a sought-after specialty.
 - CSS
 - Git
 - Figma
+
+### Code Example:
+
+**From Codewars:** return a string in which each character is doubled
+
+```
+const doubleChar = (str) =>
+  str
+    .split("")
+    .map((char) => char + char)
+    .join("");
+
+```
